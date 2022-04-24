@@ -4,9 +4,15 @@
 - To understand the ICT change in the company and its potential.
 - Understand the term Industry 4.0 and the key elements for its implementation in Agri companies.
 - Structure the possible ICT options applicable to the sector
+- Smart Agri Projects
+
 
 <HR>
 
+  
+Schedule of the session:
+
+-  
 
 
 >  "It's not a faith in technology. It's faith in people." [Steve Jobs- Apple]
