@@ -16,7 +16,8 @@ Below, when we write ‘product’, also services and features are included. You
 
 **Describe your use case**
 
-- Name: Include a short name and a long number that describes your use case well. For example: SMART4TOMATOES - Applying intelligent techniques for tomato production volume prediction.
+- Name: Include a short name and a long number that describes your use case well. 
+For example: *SMART4TOMATOES* - *Applying intelligent techniques for tomato production volume prediction*.
 
 - Description: Describe in more detail what your use case is about, including: 
   - A Context (area, region, crop, ...)
