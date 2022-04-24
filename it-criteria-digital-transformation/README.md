@@ -139,8 +139,10 @@ Individuals
 
 Ecosystem:
 - Knowing with minimal error the production, improves the product and the relationship with consumers. 
+
 Organisations:
-- Drags other processes or areas to innovate and improve. 
+- Drags other processes or areas to innovate and improve.
+  
 Individuals:
 - Employees and customers.
 
