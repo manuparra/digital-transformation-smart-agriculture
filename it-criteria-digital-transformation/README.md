@@ -1,3 +1,40 @@
+**Schedule of the session**
+
+1. Round of questions:
+- Welcome back
+- Status of internships
+- Status of use cases
+- Additional questions.
+
+2. Writing the first version of the use case:
+
+- How and where to write the use case: GitHub tutorial.
+- Instructions for filling in the use cases: Individual and/or in teams.
+- Activity time: 20-30 minutes
+- We present the use case 20-30 minutes.
+
+3. Lecture time:
+
+- ICT and enterprises: Technologies and evolution - Description of each technology
+- Enterprise 4.0 / Industry 4.0
+- Why do R&I + Industry 4.0 on agricultural and rural digital transformation matter?
+
+4. Improving our Use Case with a card game for discovering stakeholders’ values related to your project or product. See here the example (https://iof2020.h5mag.com/iof2020/value_sensitive_design/step_3/118206/Game_Rules.pdfhttps:/iof2020.h5mag.com/iof2020/value_sensitive_design/step_3/118206/Game_Rules.pdf)
+- Choose a scenario/ product/ service/ Use Case / Innovation Experiment
+- Identify relevant stakeholders
+- Draw a hand (yellow, blue and purple card)
+- Write reviews
+- Collect reviews, reshuffle and read them
+- Discuss with the team and the group
+
+5. Review of Digital Transformation techologies
+
+6. Digital transformation strategy
+- SMART Analysis: Translate your objectives into SMART Objetives
+- SWOT Strategy
+
+
+
 # General criteria for IT selection on Digital Transformation
 
 - Understand why ICTs are fundamental to the digital transformation model of an Agri business.
@@ -8,11 +45,6 @@
 
 
 <HR>
-
-  
-Schedule of the session:
-
--  
 
 
 >  "It's not a faith in technology. It's faith in people." [Steve Jobs- Apple]
@@ -169,7 +201,7 @@ Beyond farming, digital technologies are key:
 Research and innovation are vitally important to facilitate and accelerate digital transformation in agriculture and rural areas for the benefit of citizens and businesses. 
   
 
-### Workshop and seminar examples**
+### Workshop and seminar examples
   
 - Data revolution: emerging new business models in agri-food - bit.ly/2GfJ5U5
 - Digital Innovation Hubs: mainstreaming digital agriculture - bit.ly/2ra5flu
@@ -224,11 +256,31 @@ agricultural machinery, sensor systems and data analysis tools to overcome the p
 interoperability and to enable farmers to increase their productivity in a sustainable way by making
 use of the most advanced digital technology and data.
   
+## SMART objectives
 
+The SMART framework allows you to set realistic and measurable goals your team can achieve in 2022 and beyond. SMART is an acronym with each letter giving you a mindset for setting goals:
 
+S (Specific) - Keep your goals very specific and narrow so that it's clear what you're trying to achieve
 
+M (Measurable) - Establish metrics to ensure you are on track to hit your goals
 
+A (Attainable) - Your team should be able to achieve this goal within a reasonable timeframe (one month, one quarter)
 
+R (Relevant) - Your team goals should align with your organization's strategic and business objectives
 
+T (Time-based) - There should be a specific end date for your goals so that your team can create a work plan and prioritize tasks leading up to the end date
 
+> Example of a non-SMART goal: We will keep our company's website up to date.
 
+> Example of a SMART goal: During our Monday morning 9 a.m. team meeting, get updates from the team on what assets they want to update on the website, and publish the changes by Tuesday 9 a.m. After every update, send changes to the broader company so they are up to date on what's new on the website.
+
+**Goals**
+  
+- Re-write objectives into goals, and for each goal: 
+  - How is it specific?
+  - How is measurable?
+  - How is it attainable?
+  - How is it relevant?
+  - How is it time-based?
+  
+ 
