@@ -146,7 +146,24 @@ Organisations:
 Individuals:
 - Employees and customers.
 
+## Why do R&I + Industry 4.0 on agricultural and rural digital transformation matter?
+  
+Digital technologies have the potential to revolutionise agriculture by helping farmers work more precisely, efficiently and sustainably. 
+  
+Data-driven insights can improve decision-making and practices and help increase environmental performance while making the job more attractive to **younger generations**.
+    
+Digital technologies also have the potential to offer consumers greater transparency as to how their food is produced. 
+  
+They offer oppor tunities to renew business models in value chains by connecting producers and consumers in innovative ways.
+  
+Beyond farming, digital technologies are key:
+- to make rural communities more attractive, smart and sustainable, 
+- reducing problems related to remoteness and improving access to services. 
+  
+Research and innovation are vitally important to facilitate and accelerate digital transformation in agriculture and rural areas for the benefit of citizens and businesses. 
+  
 
+  
 
 
 
