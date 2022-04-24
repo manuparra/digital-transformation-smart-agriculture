@@ -283,12 +283,31 @@ T (Time-based) - There should be a specific end date for your goals so that your
   - How is it relevant?
   - How is it time-based?
   
-## SWOT analysis  
+## SWOT  
   
 SWOT stands for Strengths, Weaknesses, Opportunities, and Threats. Use this template to think about your business and competition from a fresh perspective. SWOT analysis helps you assess strengths and weaknesses, and how you can leverage those qualities to respond to market opportunities and threats.
 
 **Internal factors**
   
-Strengths -  List factors that put your business at a competitive advantage.
+- Strengths -  List factors that put your business at a competitive advantage.
+- Weaknesses - List factors that put your business at a competitive advantage.
 
-Weaknesses - List factors that put your business at a competitive advantage.
+  
+**External factors**
+  
+Opportunities and threats are external factors related to your market and industry, such as competitor products, the cost of raw materials, and customer behavior trends.
+  
+- Opportunities - List factors that could help your business grow.
+- Threats - List factors that could put your business at risk.
+  
+  
+**SWOT analysis**
+
+Brainstorm with team members with different skill sets and experience levels to get fresh perspectives about your idea/use case.
+
+
+- **Attack strategies** -  Think about your strengths and opportunities and list how can you leverage them to grow your business.
+- **Develop strategies** -  Think about your strengths and threats and list how can you use your strengths to prevent loss and mitigate risks.
+- **Reinforce strategies** -  List how can you take advantage of opportunities to overcome weaknesses.
+- **Avoid strategies** -  List how can you prioritize and address weaknesses to best avoid threats.
+  
