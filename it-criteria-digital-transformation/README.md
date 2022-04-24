@@ -283,4 +283,12 @@ T (Time-based) - There should be a specific end date for your goals so that your
   - How is it relevant?
   - How is it time-based?
   
- 
+## SWOT analysis  
+  
+SWOT stands for Strengths, Weaknesses, Opportunities, and Threats. Use this template to think about your business and competition from a fresh perspective. SWOT analysis helps you assess strengths and weaknesses, and how you can leverage those qualities to respond to market opportunities and threats.
+
+**Internal factors**
+  
+Strengths -  List factors that put your business at a competitive advantage.
+
+Weaknesses - List factors that put your business at a competitive advantage.
