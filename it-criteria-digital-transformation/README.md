@@ -1,4 +1,4 @@
-# General criteria for enterprise IT selection for Digital Transformation
+# General criteria for IT selection on Digital Transformation
 
 - Understand why ICTs are fundamental to the digital transformation model of an Agri business.
 - To understand the ICT change in the company and its potential.
@@ -26,12 +26,11 @@ Information and communications technology (ICT) is an extensional term for infor
 
 **Result**
 - Digital transformation:
-- Economy and Society
-- Need to understand change to be able to decide what opportunities and challenges exist for our area, in particular the Agro sector.
+  - Economy and Society
+  - Need to understand change to be able to decide what opportunities and challenges exist for our area, in particular the Agriculture sector.
 
 
 **Understanding the ICT spectrum will help to digitally transform the company and make decisions to adapt to change.**
-
 
 
 The rise of [computer] technology in recent decades:
@@ -40,7 +39,7 @@ The rise of [computer] technology in recent decades:
 ![i1](media/i21.jpg)
 
 
-Simple diagram of the  natural steps of an ICT-based ICT-based business model but  in the early stages, up to a strongly ICT and integrated in ICT and the  Industry 4.0.
+Simple diagram of the  natural steps of an ICT-based business model but  in the early stages, up to a strongly ICT and integrated in ICT and the  Industry 4.0.
 
 **Evolution**
 
@@ -90,7 +89,7 @@ IA:
 
 ## Enterprise 4.0 / Industry 4.0
 
-Evolution through the most advanced technological innovations to become a 'smart enterprise' 
+Evolution through the most advanced technological innovations to become a 'smart enterprise':
 
 > Activity **1**
 > **Aim:** Discussion - ICT and Business Intelligence.
