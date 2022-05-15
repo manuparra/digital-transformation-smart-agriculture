@@ -203,11 +203,11 @@ Research and innovation are vitally important to facilitate and accelerate digit
 
 ### Workshop and seminar examples
   
-- Data revolution: emerging new business models in agri-food - bit.ly/2GfJ5U5
-- Digital Innovation Hubs: mainstreaming digital agriculture - bit.ly/2ra5flu
-- Multi-level strategies for digitising agriculture and rural areas - bit.ly/2zaj1aM
-- Enabling farmers for the digital age: the role of AKIS - bit.ly/2pKddzI
-- Agri-Innovation Summit’s: Digitising rural economies - aislisbon2017.com  
+- Data revolution: emerging new business models in agri-food - [](bit.ly/2GfJ5U5)
+- Digital Innovation Hubs: mainstreaming digital agriculture - [](bit.ly/2ra5flu)
+- Multi-level strategies for digitising agriculture and rural areas - [](bit.ly/2zaj1aM)
+- Enabling farmers for the digital age: the role of AKIS - [](bit.ly/2pKddzI)
+- Agri-Innovation Summit’s: Digitising rural economies - [](aislisbon2017.com)
 
 
 ## Smart Agri projects  
