@@ -1,5 +1,30 @@
 # Digital Transformation Plan for a Greenhouse Production Company
 
+  * [Overview](#overview)
+  * [Assessment of Current State of Technology and Digitization](#assessment-of-current-state-of-technology-and-digitization)
+    + [Assess your current state of technology and digitization](#assess-your-current-state-of-technology-and-digitization)
+      - [Company context](#company-context)
+      - [Industry trends](#industry-trends)
+      - [Competitor analysis](#competitor-analysis)
+      - [Digital maturity assessment](#digital-maturity-assessment)
+      - [Cost-benefit analysis](#cost-benefit-analysis)
+      - [Conduct a technology inventory](#conduct-a-technology-inventory)
+      - [Analyze technology usage](#analyze-technology-usage)
+      - [Identify data collection points](#identify-data-collection-points)
+      - [Evaluate data quality](#evaluate-data-quality)
+      - [Identify paper-based processes](#identify-paper-based-processes)
+      - [Evaluate security](#evaluate-security)
+    + [Identify your goals](#identify-your-goals)
+    + [Develop a roadmap](#develop-a-roadmap)
+    + [Invest in the right technology](#invest-in-the-right-technology)
+    + [Train your team](#train-your-team)
+    + [Monitor and adjust](#monitor-and-adjust)
+  * [Examples](#examples)
+    + [A company that uses paper for everything and does not yet have ERP software](#a-company-that-uses-paper-for-everything-and-does-not-yet-have-erp-software)
+    + [A company where a digital transformation process is already in place and according to the digital maturity chart ready for a more innovative digital transformation, for example based on precision agriculture.](#a-company-where-a-digital-transformation-process-is-already-in-place-and-according-to-the-digital-maturity-chart-ready-for-a-more-innovative-digital-transformation--for-example-based-on-precision-agriculture)
+
+
+
 ## Overview
 
 This document outlines the steps involved in developing a digital transformation plan for a company that produces fruit and vegetable products in greenhouses. The plan aims to evolve the company from a paper-based model to a digital model that includes predictive agriculture, crop monitoring, production prediction, and optimization of inputs while minimizing the impact of diseases on plants.
